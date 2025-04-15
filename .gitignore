@@ -1,3 +1,4 @@
-/logs
+logs/
+nsys_out/
 .pixi
 *.egg-info
