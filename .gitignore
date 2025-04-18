@@ -1,4 +1,6 @@
 logs/
 nsys_out/
+ncu_out/
+sglangpf
 .pixi
 *.egg-info
